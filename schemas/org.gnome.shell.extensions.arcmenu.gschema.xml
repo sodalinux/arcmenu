@@ -610,7 +610,7 @@
       <description>Icon of the menu button.</description>
     </key>
     <key name="arc-menu-icon" type="i">
-      <default>0</default>
+      <default>2</default>
       <summary>Icon of the menu button.</summary>
       <description>Icon of the menu button.</description>
     </key>

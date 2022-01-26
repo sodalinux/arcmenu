@@ -605,12 +605,12 @@
       <description>Text of the menu button.</description>
     </key>
     <key name="menu-button-icon" enum="org.gnome.shell.extensions.arcmenu.menu-button-icon">
-      <default>'Arc_Menu_Icon'</default>
+      <default>'Custom_Icon'</default>
       <summary>Icon of the menu button.</summary>
       <description>Icon of the menu button.</description>
     </key>
     <key name="arc-menu-icon" type="i">
-      <default>2</default>
+      <default>0</default>
       <summary>Icon of the menu button.</summary>
       <description>Icon of the menu button.</description>
     </key>
